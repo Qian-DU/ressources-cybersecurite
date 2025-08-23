@@ -8,3 +8,4 @@
 * https://cyberveille.esante.gouv.fr/alertes-et-vulnerabilites
 * https://lobste.rs/t/security
 * https://www.reddit.com/r/netsec/
+* https://www.feistyduck.com/newsletter/
